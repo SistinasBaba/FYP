@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757074001259",
+    "project_id": "sports-arena-ad991",
+    "storage_bucket": "sports-arena-ad991.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757074001259:android:53ab72b0017ba6e855602e",
+        "android_client_info": {
+          "package_name": "com.example.sportsarena_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757074001259-9lcu6m8s6mt5hov6pqecqcrqht2g3gmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIQygBS4heg6g42V-JpVxj6WLw86uX6Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757074001259-9lcu6m8s6mt5hov6pqecqcrqht2g3gmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
